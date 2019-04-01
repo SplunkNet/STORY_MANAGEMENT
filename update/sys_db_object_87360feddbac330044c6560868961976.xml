@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Story</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_254768_sm_story</name>
+        <number_ref display_value="STO">1f36cf21dbec330044c656086896197f</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">07d045a63433230078507f0289bd018a</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-01 17:35:41</sys_created_on>
+        <sys_id>87360feddbac330044c6560868961976</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Story</sys_name>
+        <sys_package display_value="STORY MANAGEMENT" source="x_254768_sm">47360feddbac330044c6560868961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="STORY MANAGEMENT">47360feddbac330044c6560868961976</sys_scope>
+        <sys_update_name>sys_db_object_87360feddbac330044c6560868961976</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-01 17:37:42</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_254768_sm.user" name="x_254768_sm.user">cb368f21dbec330044c6560868961988</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
